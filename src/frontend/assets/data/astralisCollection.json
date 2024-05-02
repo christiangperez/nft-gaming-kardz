@@ -1,0 +1,26 @@
+{
+  "collectionOwner": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+  "ownerEarnsPercentagePerTransaction": "50",
+  "nfts": [
+    {
+      "tokenURI": "https://gateway.pinata.cloud/ipfs/QmQCMuzaXMZxK68NkRWPYU7aLZqVhuNhRhovsnhMPqp194?_gl=1*1wvgrro*_ga*Mzk2NzQ1NDcxLjE2Njk4MzExNDY.*_ga_5RMPXG14TE*MTY3NDc3MDgyMC4zLjEuMTY3NDc3MTIwMS41My4wLjA.",
+      "price": "0.04"
+    },
+    {
+      "tokenURI": "https://gateway.pinata.cloud/ipfs/QmUrmmwVSEVH7hKZ4LLvVX85wtb9tEc4ttex82FceMoy5U?_gl=1*1wvgrro*_ga*Mzk2NzQ1NDcxLjE2Njk4MzExNDY.*_ga_5RMPXG14TE*MTY3NDc3MDgyMC4zLjEuMTY3NDc3MTIwMS41My4wLjA.",
+      "price": "0.01"
+    },
+    {
+      "tokenURI": "https://gateway.pinata.cloud/ipfs/QmaiKtratL2EVHCSTQyTxBJ2M4zDcnoM2Ur6wqkCMRo6hx?_gl=1*tjlijy*_ga*Mzk2NzQ1NDcxLjE2Njk4MzExNDY.*_ga_5RMPXG14TE*MTY3NTAwNjMxMi41LjAuMTY3NTAwNjMxNC41OC4wLjA.",
+      "price": "0.02"
+    },
+    {
+      "tokenURI": "https://gateway.pinata.cloud/ipfs/QmT2x4cxxbqFFRvmNne5JJAHs3fUXoUobXxyWfDwdTzeZV?_gl=1*147duaj*_ga*Mzk2NzQ1NDcxLjE2Njk4MzExNDY.*_ga_5RMPXG14TE*MTY3NTAwNjMxMi41LjAuMTY3NTAwNjMxNC41OC4wLjA.",
+      "price": "0.03"
+    },
+    {
+      "tokenURI": "https://gateway.pinata.cloud/ipfs/QmeLkSo2eL5BdKNzNCB3oQ7iUdF8ZcopAbXP2UoSfL9fnR?_gl=1*gtw16d*_ga*Mzk2NzQ1NDcxLjE2Njk4MzExNDY.*_ga_5RMPXG14TE*MTY3NTAwNjMxMi41LjAuMTY3NTAwNjMxNC41OC4wLjA.",
+      "price": "0.01"
+    }
+  ]
+}
